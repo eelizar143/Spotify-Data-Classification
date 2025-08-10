@@ -5,8 +5,8 @@ Spotify offers an API that provides detailed audio features for its songs, such 
 In this project, I use audio features from 50,000 randomly selected songs to build a machine learning model that predicts the genre of each track.
 
 This repository contains my Spotify Classification project, presented in two formats:
-- **Jupyter Notebook (`.ipynb`)** — fully executed, with all outputs/visualizations visible.
-- **Python Script (`.py`)** — the same code in python script form.
+- **Jupyter Notebook (`.ipynb`)**: fully executed, with all outputs/visualizations visible.
+- **Python Script (`.py`)**: the same code in python script form.
 
 The notebook is intended for quick viewing directly on GitHub (no setup is needed to see the results).
 The Python script and notebook can both be run locally if you'd like to experiment.
