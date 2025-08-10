@@ -14,15 +14,15 @@ The Python script and notebook can both be run locally if you'd like to experime
 ---
 
 ## Files
-- `classif_project.ipynb` — Main Jupyter Notebook with executed cells and graphs.
-- `classif_project.py` — Python script version of the project.
+- `spotify_classif.ipynb` — Main Jupyter Notebook with executed cells and graphs.
+- `spotify_classif.py` — Python script version of the project.
 - `requirements.txt` — Python dependencies for running the code.
 
 ---
 
 ## Quick View
 You can view all results, graphs, and outputs directly in the
-[`classif_project.ipynb`](./classif_project.ipynb) file on GitHub.
+[`spotify_classif.ipynb`](./spotify_classif.ipynb) file on GitHub.
 No installation or setup is required for viewing.
 
 ---
